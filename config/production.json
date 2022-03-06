@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://admin-Nirmalya:nirmalya@secrets.sbwkl.mongodb.net/reunionTestDB",
+    "jwtSecret": "mySecretToken"
+}
